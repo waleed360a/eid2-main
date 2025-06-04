@@ -53,7 +53,7 @@ translations = {
     "English": {
         "title": "Moneymoon Eid Images! 🎉",
         "sidebar_text": "Developed by Moneymoon's team",
-        "greeting": "Moneymoon family wishes you a happy Eid Al-Fitr! Please type your name and click the button to get your Eid Al-Fitr 2025 greeting card!",
+        "greeting": "Moneymoon family wishes you a happy Eid Al-Adha! Please type your name and click the button to get your Eid Al-Adha 2025 greeting card!",
         "name_label": "Name:",
         "generate_button": "Generate Eid Image",
         "caption": "Your Eid Image",
